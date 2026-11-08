@@ -1,15 +1,28 @@
-# Awesome Virtual Event & Breakout Session Management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Virtual Event & Breakout Session Management
 
-> A curated directory of top-tier Virtual Event platforms, Breakout Room tools, and interactive session management software — featuring enterprise SaaS solutions and self-hosted open-source alternatives for hosting online conferences, webinars, digital workshops, and multi-track hybrid events.  
-> 🌟 Star this repo if you find it useful! 🌟
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Virtual Event and Breakout Session Management Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Virtual-Event-Breakout-Session-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-Event-Breakout-Session-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Virtual-Event-Breakout-Session-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Virtual-Event-Breakout-Session-Management?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🌟 A curated directory of top-tier Virtual Event platforms, Breakout Room tools, and interactive session management software — featuring enterprise SaaS solutions and self-hosted open-source alternatives for hosting online conferences, webinars, digital workshops, and multi-track hybrid events.  
+> 🚀 Star this repo if you find it useful! 🚀
 
 ---
 
 ## 📋 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-- [Open-Source Software](#-open-source-software)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source Software](#-open-source-software)
   - [Jitsi Meet](#jitsi-meet)
   - [LiveKit](#livekit)
   - [BigBlueButton](#bigbluebutton)
@@ -25,9 +38,11 @@
   - [venueless](#venueless)
   - [PILOS](#pilos)
   - [Open Meet](#open-meet)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [📊 Comparison at a Glance](#-comparison-at-a-glance)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
@@ -37,7 +52,7 @@ The global virtual events market size was estimated at **$198.7 billion to $243 
 
 ---
 
-## 🟦 SaaS / Hosted Platforms
+## 🏢 SaaS / Hosted Platforms
 
 The following table compares the top commercial, hosted virtual event and breakout session management platforms, ordered by company scale (market capitalization / enterprise valuation):
 
@@ -55,7 +70,7 @@ The following table compares the top commercial, hosted virtual event and breako
 
 ---
 
-## 🟩 Open-Source Software
+## 🔓 Open-Source Software
 
 Self-hosted, community-driven virtual event, breakout room, and real-time conferencing systems. Repositories are ordered by GitHub stargazer count (descending):
 
@@ -167,15 +182,35 @@ A self-hostable video meeting alternative to Google Meet and Zoom, offering inst
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-Event-Breakout-Session-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Virtual-Event-Breakout-Session-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting this curated resource! 🌟  
+If you find this repository helpful for your virtual events, software architecture, or community gatherings, please consider:
+
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** it and contributing new tools or corrections
+- 📢 **Sharing** it with fellow conference organizers, educators, and developers
+- ☕ **Buying a coffee / sponsoring** the project via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/ishandutta2007)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are warmly encouraged! To suggest a new tool or suggest improvements:
 
-1. Fork this repository.
-2. Create a new descriptive branch (`git checkout -b add-tool-name`).
-3. Add the project to the relevant section adhering to alphabetical or star-count sorting.
-4. Ensure the repository has active releases within the last 12 months.
-5. Submit a pull request with a succinct explanation of why the tool is beneficial.
+1. 🍴 Fork this repository.
+2. 🌿 Create a new descriptive branch (`git checkout -b add-tool-name`).
+3. 📝 Add the project to the relevant section adhering to alphabetical or star-count sorting.
+4. 🚀 Ensure the repository has active releases within the last 12 months.
+5. 📬 Submit a pull request with a succinct explanation of why the tool is beneficial.
 
 ---
 
